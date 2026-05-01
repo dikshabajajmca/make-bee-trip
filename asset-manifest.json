@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/make-bee-trip/static/css/main.0f2a7ace.css",
+    "main.js": "/make-bee-trip/static/js/main.16910c66.js",
+    "static/js/453.825386d9.chunk.js": "/make-bee-trip/static/js/453.825386d9.chunk.js",
+    "index.html": "/make-bee-trip/index.html",
+    "main.0f2a7ace.css.map": "/make-bee-trip/static/css/main.0f2a7ace.css.map",
+    "main.16910c66.js.map": "/make-bee-trip/static/js/main.16910c66.js.map",
+    "453.825386d9.chunk.js.map": "/make-bee-trip/static/js/453.825386d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f2a7ace.css",
+    "static/js/main.16910c66.js"
+  ]
+}
